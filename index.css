@@ -28,6 +28,8 @@
     width: 100%;
 }
 @media (max-width:480px) {
-    width: 45%;
+    .movie {
+        width: 45%;
+    }  
 }   
 
