@@ -27,4 +27,7 @@
 .movie img {
     width: 100%;
 }
+@media (max-width:480px) {
+    width: 45%;
+}   
 
